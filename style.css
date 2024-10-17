@@ -1,14 +1,10 @@
-.n {
-    text-align: center;
-    color: darkblue;
-}
-.p {
+h5 {
     text-align: center;
     border: 1px solid;
     border-radius: 50px;
-    color: darkblue;
+    color: blueviolet;
 }
-img {
-    width: 900px;
-    height: 900px;
+p {
+    text-align: center;
+    color: blueviolet;
 }
