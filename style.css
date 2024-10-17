@@ -1,0 +1,14 @@
+.n {
+    text-align: center;
+    color: darkblue;
+}
+.p {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 50px;
+    color: darkblue;
+}
+img {
+    width: 900px;
+    height: 900px;
+}
